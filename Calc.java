@@ -72,7 +72,7 @@ public class Calc {
 
 	private void initialize() {
 		frmAndrezaCassandra = new JFrame();
-		frmAndrezaCassandra.getContentPane().setBackground(new Color(118, 106, 206));
+		frmAndrezaCassandra.getContentPane().setBackground(new Color(118, 102, 206));
 		frmAndrezaCassandra.setTitle("ANDREZA CASSANDRA - 0025674");
 		frmAndrezaCassandra.setBounds(100, 100, 385, 495);
 		frmAndrezaCassandra.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
